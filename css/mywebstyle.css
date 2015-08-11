@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+/*スタイルここから*/
+body{
+	background-color:#cccc66;
+}
+
+h1{
+	text-align:center;
+	color:#008000;
+	margin-top:1px;
+	margin-bottom:1px;
+}
+h2{
+	text-align:center;
+	color:#663399;
+}
+.hontai{
+	width:700;
+	margin-right:auto;
+	margin-left:auto;
+
+}
+.photo{
+	float:left;
+	margin-right:40px;
+}
+.ocya{
+	text-weight:bold;
+	color:#999900;
+}
+.seibun{
+	text-align:center;
+}
+.spec{
+	clear:both;
+}
+.cyuui{
+	text-align:right;
+	color:#ff0000;
+}
+.soudansitu{
+	text-align:right;
+	text-border:bold;
+	font-weight:bold;
+	line-height:1.0;
+}
+table{
+	border-collapse:collapse;
+
+}
+table td{
+	border:1.5px solid #008000;
+	padding:7px;
+}
+
+table tr td:first-child{
+	background-color:#008000;
+	color:#ffffff;
+	font-weight:bold;
+	width:90px;
+}
+/*スタイルここまで*/
